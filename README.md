@@ -1,4 +1,4 @@
-Hi there 👋 I'm Eastsidegunn Han(Donggeon Han).
+# Hi there 👋 I'm Eastsidegunn Han(Donggeon Han).
  
 - ⚡Fun Fact: "gunn" is not my last name. lol
 - 🔭 I am co-founder of [EDAI](https://github.com/edai-club).
@@ -22,6 +22,7 @@ Hi there 👋 I'm Eastsidegunn Han(Donggeon Han).
 ## 🌱 I’m currently interested in
 
 - AI for Mechanical Engineering
+  
 ## 💼 Projects
 
 * `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idol. 
@@ -34,9 +35,9 @@ Hi there 👋 I'm Eastsidegunn Han(Donggeon Han).
 * `Kaggle` **[Tabular Playground - Feb 2021](https://www.kaggle.com/c/tabular-playground-series-feb-2021/leaderboard)** 238/1433
 * `Kaggle` **[Tabular Playground - Aug 2021](https://www.kaggle.com/c/tabular-playground-series-aug-2021/leaderboard)** 171/1433
 * `Kaggle` **[SETI Breakthrough Listen - E.T. Signal Search](https://www.kaggle.com/competitions/seti-breakthrough-listen/leaderboard)** 462/768
-* `Dacon`  **[Job Care Recommendation Algoritm Competition](https://dacon.io/competitions/official/235863/leaderboard)** 15/728 [Code](https://github.com/PCEO-AI-CLUB/JobCare--DACON)
+* `Dacon`  **[Job Care Recommendation Algorithm Competition](https://dacon.io/competitions/official/235863/leaderboard)** 15/728 [Code](https://github.com/PCEO-AI-CLUB/JobCare--DACON)
 * `Dacon` **[Han River Water Level Prediction Competition](https://dacon.io/competitions/official/235949/leaderboard)** 16/308
-* `Dacon` **[AI Yang-Jae hub Image Super-resolution Competition](https://dacon.io/competitions/official/235977/leaderboard)** 30/308 
+* `Dacon` **[AI Yang-Jae hub Image Super-resolution Competition](https://dacon.io/competitions/official/235977/leaderboard)** 30/124 
 
 <!--
 **Eastsidegunn/Eastsidegunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

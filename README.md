@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Eastsidegunn Han(Donggeon Han).
+## Hi there 👋 I'm Eastsidegunn Han(Donggeon Han).
  
 - ⚡Fun Fact: "gunn" is not my last name. lol
 - 🔭 I am co-founder of [EDAI](https://github.com/edai-club).
@@ -21,13 +21,13 @@
 
 ## 🌱 I’m currently interested in
 
-- AI for Mechanical Engineering
+- AI for Mechanical Engineering(especially robot control) 🤖
   
 ## 💼 Projects
 
 * `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idol. 
 * `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols.
-* `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build thechnologies for meausring valid impressions of in-game advertisements.
+* `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build technologies for measuring valid impressions of in-game advertisements.
 
 ## 🎀 Competitions
 
@@ -39,6 +39,9 @@
 * `Dacon` **[Han River Water Level Prediction Competition](https://dacon.io/competitions/official/235949/leaderboard)** 16/308
 * `Dacon` **[AI Yang-Jae hub Image Super-resolution Competition](https://dacon.io/competitions/official/235977/leaderboard)** 30/124 
 
+# 😄Notice
+
+- I'm poor student. GPU funding is open to you. S2
 <!--
 **Eastsidegunn/Eastsidegunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

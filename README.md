@@ -22,6 +22,7 @@
 ## 🌱 I’m currently interested in
 
 - AI for Mechanical Engineering(especially robot control) 🤖
+- Objective-Driven AI
   
 ## 💼 Projects
 

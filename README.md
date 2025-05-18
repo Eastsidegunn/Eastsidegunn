@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Eastsidegunn Han(Donggeon Han).
  
 - ⚡Fun Fact: "gunn" is not my last name. lol
-- 🔭 I am co-founder of [EDAI](https://github.com/edai-club).
 
 <!--
 ### [My blog]()
@@ -21,21 +20,24 @@
 
 ## 🌱 I’m currently interested in
 
-- RAG System
-- Synthetic Data Creation
+- Physics-AI
+- GFlowNet
+- 
   
 ## 💼 Projects
 
 * `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idol. 
 * `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols.
 * `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build technologies for measuring valid impressions of in-game advertisements.
+* `Markr.AI` **[RAG-Chain](https://github.com/Marker-Inc-Korea/RAGchain)** - Library for RAG
+* `Nomadamas` **[KICE-Slayer](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Korean SAT(수능) benchmark for measuring LLM Korean performance.
+* `Markr.AI` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - Library which find optimal RAG Pipeline in finite space with modules & hyper parameters.
 
 ## 🎀 Competitions
 
 ### Challenged
 * `Kaggle` **[Tabular Playground - Feb 2021](https://www.kaggle.com/c/tabular-playground-series-feb-2021/leaderboard)** 238/1433
 * `Kaggle` **[Tabular Playground - Aug 2021](https://www.kaggle.com/c/tabular-playground-series-aug-2021/leaderboard)** 171/1433
-* `Kaggle` **[SETI Breakthrough Listen - E.T. Signal Search](https://www.kaggle.com/competitions/seti-breakthrough-listen/leaderboard)** 462/768
 * `Dacon`  **[Job Care Recommendation Algorithm Competition](https://dacon.io/competitions/official/235863/leaderboard)** 15/728 [Code](https://github.com/PCEO-AI-CLUB/JobCare--DACON)
 * `Dacon` **[Han River Water Level Prediction Competition](https://dacon.io/competitions/official/235949/leaderboard)** 16/308
 * `Dacon` **[AI Yang-Jae hub Image Super-resolution Competition](https://dacon.io/competitions/official/235977/leaderboard)** 30/124 
